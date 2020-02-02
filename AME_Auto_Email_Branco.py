@@ -11,7 +11,7 @@ log.write("Iniciando Teste \n")
 log.write("----- \n")
 
 #Abrir Navegador Chrome (fullscreen)
-browser = webdriver.Chrome(executable_path = "C:\chromedriver.exe")
+browser = webdriver.Chrome(executable_path = "C:/Users/gollu/Documents/GitHub/TesteAutomacaoWebAME_Python/chromedriver.exe")
 browser.implicitly_wait(20)
 browser.maximize_window()
 

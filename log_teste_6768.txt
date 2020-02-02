@@ -1,0 +1,15 @@
+Iniciando Teste 
+----- 
+Navegador aberto 
+----- 
+Site Acessado 
+----- 
+Iniciando Login 
+----- 
+Logando 
+----- 
+Conta Acessada 
+----- 
+Navegador fechado 
+----- 
+Teste Executado com Sucesso ! 

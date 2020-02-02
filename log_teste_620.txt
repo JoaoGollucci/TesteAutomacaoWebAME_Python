@@ -1,0 +1,16 @@
+Iniciando Teste 
+----- 
+Navegador aberto 
+----- 
+Site Acessado 
+----- 
+Iniciando Criação de Conta 
+----- 
+Finalizando Conta 
+----- 
+Conta Criada com Sucesso 
+Email Utilizado: teste620@ame.com.br
+----- 
+Navegador fechado 
+----- 
+Teste Executado com Sucesso ! 

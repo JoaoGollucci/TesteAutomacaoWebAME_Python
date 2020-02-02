@@ -1,0 +1,17 @@
+Iniciando Teste 
+----- 
+Navegador aberto 
+----- 
+Site Acessado 
+----- 
+Iniciando Login 
+----- 
+E-mail Não Preenchido 
+----- 
+Logando 
+----- 
+Mensagem de Erro Apresentada 
+----- 
+Navegador fechado 
+----- 
+Teste Executado com Sucesso ! 
